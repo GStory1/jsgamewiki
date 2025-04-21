@@ -130,6 +130,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Angry Birds on HTML5](http://www.infoq.com/presentations/Angry-Birds-on-HTML5) - Challenges to port Angry Birds to Chrome/HTML5
 * [Lostcast](http://www.lostdecadegames.com/lostcast/) - Nice talks about game programming with Javascript. They also provide some very good links.
 
+
 ### Presentations / Slides
 * [5 tips for your html5 games](http://www.slideshare.net/ernesto.jimenez/5-tips-for-your-html5-games)
 * [10 tips to get started with html5 games](http://www.slideshare.net/KukoljGregory/10-tips-to-get-started-with-html5-games)
@@ -227,6 +228,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [8bitalpha](http://www.8bitalpha.com/) - Online Service which resizes your png's from 24 to 8 bits -> for performance improvement
 * [wpclipart](http://www.wpclipart.com/) - Free images with online cropping service
 * [Sprite](http://www.kickstarter.com/projects/539087245/spriter/) - Animation tool - not tried, but looks awesome
+* [GStoryAI](https://www.gstory.ai/) - Free online video and photo tool for footages
 
 
 ### Sound
